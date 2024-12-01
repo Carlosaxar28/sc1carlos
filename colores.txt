@@ -1,0 +1,7 @@
+fondo:#FF5733
+parrafo:#33FF57
+letra:#3357FF
+
+
+
+
